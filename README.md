@@ -54,7 +54,7 @@ Ingeniera de Datos especializada en **arquitectura cloud**, **pipelines ETL/ELT*
 ## 🎯 Proyectos Destacados
 
 ### 🔹 [Clasificador de Denuncias Ciudadanas - NLP](link-a-tu-repo)
-- Clasificación multiclase con 99% accuracy
+- Clasificación multiclase 
 - Procesamiento de texto con CountVectorizer
 - Modelos: Logistic Regression, Naive Bayes, SVM, XGBoost
 
