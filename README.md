@@ -88,7 +88,7 @@ Ingeniera de Datos especializada en **arquitectura cloud**, **pipelines ETL/ELT*
 
 💡 *"Transformando datos en decisiones, un pipeline a la vez"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Barbie2401&color=blueviolet&style=flat-square)## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Barbie2401&color=blueviolet&style=flat-square)
 
 <!--
 **Barbie2401/Barbie2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
