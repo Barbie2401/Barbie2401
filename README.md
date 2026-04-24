@@ -1,12 +1,12 @@
-# 👋 Hola, soy Bárbara Pérez
+# Hola, soy Bárbara Pérez
 
-## 🚀 Data Engineer | Python + SQL + GCP
+## Data Engineer | Python + SQL + GCP
 
 Ingeniera de Datos especializada en **arquitectura cloud**, **pipelines ETL/ELT** y **analítica avanzada**. Transformo datos complejos en soluciones escalables que impulsan decisiones estratégicas.
 
 ---
 
-## 💼 Experiencia Profesional
+## Experiencia Profesional
 
 **Data Scientist & Data Engineer** | PwC Chile (2023-2026)
 - Arquitecturas de datos en capas (raw-stage-univ) en GCP
@@ -86,7 +86,7 @@ Ingeniera de Datos especializada en **arquitectura cloud**, **pipelines ETL/ELT*
 
 ---
 
-💡 *"Transformando datos en decisiones, un pipeline a la vez"*
+*"Transformando datos en decisiones, un pipeline a la vez"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Barbie2401&color=blueviolet&style=flat-square)
 
